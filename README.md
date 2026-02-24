@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=E8A317&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=CigarPandaMan;Lawyer+by+day.+AI+engineer+by+night.;Objection!+...to+bad+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=E8A317&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=CigarPandaMan;Lawyer+by+day.+AI+engineer+by+night.;Objection!+...to+bad+code." alt="Typing SVG" /></a>
 
 <!-- Snake Animation -->
 <picture>
@@ -30,11 +30,24 @@
 
 <div align="center">
 
-<!-- Stats Card -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CigarPandaMan&show_icons=true&count_private=true&theme=radical&title_color=E8A317&icon_color=FF6B35&text_color=FFFFFF&bg_color=0D1117&border_color=E8A317&hide_border=false" alt="GitHub Stats" height="195" />
+<!-- Profile Details -->
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="95%" />
+
+<br/>
+
+<!-- Stats & Commits -->
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="47%" />
+
+<br/>
+
+<!-- Languages -->
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="47%" />
 
 <!-- Streak Card -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CigarPandaMan&theme=radical&background=0D1117&border=E8A317&stroke=E8A317&ring=FF6B35&fire=FF6B35&currStreakLabel=E8A317&sideLabels=E8A317&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" height="195" />
+<br/>
+<img src="https://streak-stats.demolab.com/?user=CigarPandaMan&theme=radical&background=0D1117&border=E8A317&stroke=E8A317&ring=FF6B35&fire=FF6B35&currStreakLabel=E8A317&sideLabels=E8A317&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
 
 </div>
 
@@ -62,13 +75,6 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CigarPandaMan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleLang" alt="Trophies" width="95%" />
 </div>
 
 ---
