@@ -31,19 +31,19 @@
 <div align="center">
 
 <!-- Profile Details -->
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="95%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/radical/0-profile-details.svg" alt="Profile Details" width="95%" />
 
 <br/>
 
 <!-- Stats & Commits -->
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/3-stats.svg" alt="Stats" width="47%" />
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/4-productive-time.svg" alt="Productive Time" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/radical/3-stats.svg" alt="Stats" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/radical/4-productive-time.svg" alt="Productive Time" width="47%" />
 
 <br/>
 
 <!-- Languages -->
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" width="47%" />
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Commit Language" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/radical/1-repos-per-language.svg" alt="Repos per Language" width="47%" />
+<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/radical/2-most-commit-language.svg" alt="Most Commit Language" width="47%" />
 
 <!-- Streak Card -->
 <br/>
