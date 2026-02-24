@@ -31,7 +31,7 @@
 <div align="center">
 
 <!-- Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=CigarPandaMan&show_icons=true&count_private=true&theme=radical&title_color=E8A317&icon_color=FF6B35&text_color=FFFFFF&bg_color=0D1117&border_color=E8A317&hide_border=false" alt="GitHub Stats" height="195" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CigarPandaMan&show_icons=true&count_private=true&theme=radical&title_color=E8A317&icon_color=FF6B35&text_color=FFFFFF&bg_color=0D1117&border_color=E8A317&hide_border=false" alt="GitHub Stats" height="195" />
 
 <!-- Streak Card -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=CigarPandaMan&theme=radical&background=0D1117&border=E8A317&stroke=E8A317&ring=FF6B35&fire=FF6B35&currStreakLabel=E8A317&sideLabels=E8A317&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" height="195" />
@@ -68,7 +68,7 @@
 
 <!-- Trophies -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=CigarPandaMan&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=CigarPandaMan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultipleLang" alt="Trophies" width="95%" />
 </div>
 
 ---
