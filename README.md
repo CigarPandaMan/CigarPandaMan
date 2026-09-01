@@ -49,22 +49,20 @@
 
 Building **[Mage](https://magelegal.com)**, legal AI for M&A attorneys. It reads the data room so the deal team can practice law instead of skimming PDFs at midnight.
 
+Latest open-source release: **[mage-dataroom-cli](https://github.com/magelegal/mage-dataroom-cli)**, upload and organize a Mage data room from the command line. Built for humans and AI agents.
+
 <div align="center">
 
-<a href="https://github.com/magelegal/mage-dataroom-cli">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=0D1117&border_color=30363D&title_color=B08D57&text_color=8B949E&icon_color=8B0000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=FFFFFF&border_color=D0D7DE&title_color=8A6D3B&text_color=57606A&icon_color=8B0000" />
-  <img alt="mage-dataroom-cli: upload and organize a Mage data room from the command line" src="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=0D1117&border_color=30363D&title_color=B08D57&text_color=8B949E&icon_color=8B0000" />
-</picture>
-</a>
+<a href="https://github.com/magelegal/mage-dataroom-cli"><img src="https://img.shields.io/badge/mage--dataroom--cli-source-8B0000?style=for-the-badge&logo=github&labelColor=0d1117" alt="mage-dataroom-cli on GitHub" /></a>
+&nbsp;
+<a href="https://www.npmjs.com/package/@magelegal/cli"><img src="https://img.shields.io/npm/v/%40magelegal%2Fcli?style=for-the-badge&label=npm&labelColor=0d1117&color=B08D57" alt="npm version" /></a>
 
 </div>
 
 ---
 
 ```
-> git log --stat
+> git log
 ```
 
 <div align="center">
@@ -72,27 +70,10 @@ Building **[Mage](https://magelegal.com)**, legal AI for M&A attorneys. It reads
 <!-- Profile Details -->
 <img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/github_dark/0-profile-details.svg" alt="Profile Details" width="95%" />
 
-<br/>
-
-<!-- Stats & Commits -->
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/github_dark/3-stats.svg" alt="Stats" width="47%" />
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/github_dark/4-productive-time.svg" alt="Productive Time" width="47%" />
-
-<br/>
-
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/github_dark/1-repos-per-language.svg" alt="Repos per Language" width="47%" />
-<img src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/stats/github_dark/2-most-commit-language.svg" alt="Most Commit Language" width="47%" />
-
 <!-- Streak Card -->
 <br/>
 <img src="https://streak-stats.demolab.com/?user=CigarPandaMan&theme=dark&background=0D1117&border=30363D&stroke=8B8B8B&ring=8B0000&fire=B08D57&currStreakLabel=B08D57&sideLabels=8B8B8B&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E6E6E" alt="GitHub Streak" />
 
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CigarPandaMan&theme=high-contrast&bg_color=0D1117&color=8B8B8B&line=8B0000&point=B08D57&area=true&area_color=8B0000&hide_border=false&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
 </div>
 
 ---
