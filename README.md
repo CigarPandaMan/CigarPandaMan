@@ -3,6 +3,21 @@
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=B08D57&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=CigarPandaMan;Lawyer+by+day.+AI+engineer+by+night.;Objection!+...to+bad+code." alt="Typing SVG" /></a>
 
+<!-- Live Contribution Carpet: rebuilt every 6 hours by .github/workflows/counter.yml -->
+<a href="https://github.com/CigarPandaMan/CigarPandaMan/actions/workflows/counter.yml">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/counter/counter-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/counter/counter-light.svg" />
+  <img alt="The past 365 days: a live contribution heatmap with commits, best day, and daily average, re-counted every 6 hours" src="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/counter/counter-dark.svg" width="860" />
+</picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/CigarPandaMan/CigarPandaMan/actions/workflows/counter.yml"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FCigarPandaMan%2FCigarPandaMan%2Fcounter%2Fbadge.json&style=for-the-badge" alt="Live contribution count" /></a>
+&nbsp;
+<a href="https://magelegal.com"><img src="https://img.shields.io/badge/building-magelegal.com-B08D57?style=for-the-badge&labelColor=0d1117" alt="Building Mage" /></a>
+
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CigarPandaMan/CigarPandaMan/output/github-snake-dark.svg" />
@@ -27,6 +42,30 @@
 ```
 
 ---
+
+```
+> now_shipping
+```
+
+Building **[Mage](https://magelegal.com)**, legal AI for M&A attorneys. It reads the data room so the deal team can practice law instead of skimming PDFs at midnight.
+
+<div align="center">
+
+<a href="https://github.com/magelegal/mage-dataroom-cli">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=0D1117&border_color=30363D&title_color=B08D57&text_color=8B949E&icon_color=8B0000" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=FFFFFF&border_color=D0D7DE&title_color=8A6D3B&text_color=57606A&icon_color=8B0000" />
+  <img alt="mage-dataroom-cli: upload and organize a Mage data room from the command line" src="https://github-readme-stats.vercel.app/api/pin/?username=magelegal&repo=mage-dataroom-cli&bg_color=0D1117&border_color=30363D&title_color=B08D57&text_color=8B949E&icon_color=8B0000" />
+</picture>
+</a>
+
+</div>
+
+---
+
+```
+> git log --stat
+```
 
 <div align="center">
 
@@ -62,26 +101,8 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,fastapi,mongodb,docker,tailwind,git,github&theme=dark&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=ts,python,react,nextjs,fastapi,mongodb,aws,docker,tailwind,git&theme=dark&perline=10" alt="Tech Stack" />
 
-<br/><br/>
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
----
-
-<!-- Random Dev Quote -->
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
 
 ---
@@ -90,6 +111,10 @@
 
 <!-- View Counter -->
 <img src="https://komarev.com/ghpvc/?username=CigarPandaMan&style=flat-square&color=6E6E6E&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br/><br/>
+
+<sub>This profile re-counts itself every 6 hours. My billable hours are tracked with equal rigor and far less enthusiasm.</sub>
 
 <br/><br/>
 

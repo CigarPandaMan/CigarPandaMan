@@ -1,0 +1,37 @@
+name: Contribution Counter
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/counter.yml"
+      - ".github/scripts/**"
+
+jobs:
+  count:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render counter cards
+        env:
+          # The default token sees private contribution *totals* (the profile
+          # setting is on). Add a COMMIT_COUNTER_TOKEN secret (classic PAT,
+          # repo scope) to also make the exact commit count live.
+          GH_TOKEN: ${{ secrets.COMMIT_COUNTER_TOKEN || secrets.GITHUB_TOKEN }}
+          HAS_PAT: ${{ secrets.COMMIT_COUNTER_TOKEN != '' }}
+        run: node .github/scripts/render-counter.mjs
+
+      - name: Push to counter branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: counter
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
